@@ -1,0 +1,7 @@
+C:\Users\Coditas\source\repos\LINQAssignment\bin\Debug\LINQAssignment.exe.config
+C:\Users\Coditas\source\repos\LINQAssignment\bin\Debug\LINQAssignment.exe
+C:\Users\Coditas\source\repos\LINQAssignment\bin\Debug\LINQAssignment.pdb
+C:\Users\Coditas\source\repos\LINQAssignment\obj\Debug\LINQAssignment.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\LINQAssignment\obj\Debug\LINQAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\LINQAssignment\obj\Debug\LINQAssignment.exe
+C:\Users\Coditas\source\repos\LINQAssignment\obj\Debug\LINQAssignment.pdb

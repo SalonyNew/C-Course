@@ -1,0 +1,7 @@
+C:\Users\Coditas\source\repos\LinqExample\bin\Debug\LinqExample.exe.config
+C:\Users\Coditas\source\repos\LinqExample\bin\Debug\LinqExample.exe
+C:\Users\Coditas\source\repos\LinqExample\bin\Debug\LinqExample.pdb
+C:\Users\Coditas\source\repos\LinqExample\obj\Debug\LinqExample.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\LinqExample\obj\Debug\LinqExample.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\LinqExample\obj\Debug\LinqExample.exe
+C:\Users\Coditas\source\repos\LinqExample\obj\Debug\LinqExample.pdb

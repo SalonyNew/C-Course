@@ -1,0 +1,10 @@
+C:\Users\Coditas\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Coditas\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Coditas\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Coditas\source\repos\ConsoleApp3\bin\Debug\ClassLibrary1.dll
+C:\Users\Coditas\source\repos\ConsoleApp3\bin\Debug\ClassLibrary1.pdb
+C:\Users\Coditas\source\repos\ConsoleApp3\obj\Debug\ConsoleA.88426B56.Up2Date
+C:\Users\Coditas\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Coditas\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

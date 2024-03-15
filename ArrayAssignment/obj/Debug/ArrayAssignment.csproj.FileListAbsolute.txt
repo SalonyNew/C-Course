@@ -1,0 +1,2 @@
+C:\Users\Coditas\source\repos\ArrayAssignment\obj\Debug\ArrayAssignment.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\ArrayAssignment\obj\Debug\ArrayAssignment.csproj.CoreCompileInputs.cache

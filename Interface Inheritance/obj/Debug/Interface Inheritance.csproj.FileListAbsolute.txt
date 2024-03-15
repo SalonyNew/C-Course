@@ -1,0 +1,10 @@
+C:\Users\Coditas\source\repos\Interface Inheritance\bin\Debug\Interface Inheritance.exe.config
+C:\Users\Coditas\source\repos\Interface Inheritance\bin\Debug\Interface Inheritance.exe
+C:\Users\Coditas\source\repos\Interface Inheritance\bin\Debug\Interface Inheritance.pdb
+C:\Users\Coditas\source\repos\Interface Inheritance\bin\Debug\ClassLibrary3.dll
+C:\Users\Coditas\source\repos\Interface Inheritance\bin\Debug\ClassLibrary3.pdb
+C:\Users\Coditas\source\repos\Interface Inheritance\obj\Debug\Interface Inheritance.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\Interface Inheritance\obj\Debug\Interface Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\Interface Inheritance\obj\Debug\Interfac.515594E0.Up2Date
+C:\Users\Coditas\source\repos\Interface Inheritance\obj\Debug\Interface Inheritance.exe
+C:\Users\Coditas\source\repos\Interface Inheritance\obj\Debug\Interface Inheritance.pdb

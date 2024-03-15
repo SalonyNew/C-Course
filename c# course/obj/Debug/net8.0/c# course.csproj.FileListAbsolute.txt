@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\c# course\bin\Debug\net8.0\c# course.exe
+C:\Users\Coditas\source\repos\c# course\bin\Debug\net8.0\c# course.deps.json
+C:\Users\Coditas\source\repos\c# course\bin\Debug\net8.0\c# course.runtimeconfig.json
+C:\Users\Coditas\source\repos\c# course\bin\Debug\net8.0\c# course.dll
+C:\Users\Coditas\source\repos\c# course\bin\Debug\net8.0\c# course.pdb
+C:\Users\Coditas\source\repos\c# course\obj\Debug\net8.0\c# course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\c# course\obj\Debug\net8.0\c# course.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\c# course\obj\Debug\net8.0\c# course.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\c# course\obj\Debug\net8.0\c# course.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\c# course\obj\Debug\net8.0\c# course.dll
+C:\Users\Coditas\source\repos\c# course\obj\Debug\net8.0\refint\c# course.dll
+C:\Users\Coditas\source\repos\c# course\obj\Debug\net8.0\c# course.pdb
+C:\Users\Coditas\source\repos\c# course\obj\Debug\net8.0\c# course.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\c# course\obj\Debug\net8.0\ref\c# course.dll

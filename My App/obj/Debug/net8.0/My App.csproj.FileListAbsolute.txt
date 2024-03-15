@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\My App\obj\Debug\net8.0\My App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\My App\obj\Debug\net8.0\My App.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\My App\obj\Debug\net8.0\My App.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\My App\obj\Debug\net8.0\My App.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\My App\bin\Debug\net8.0\My App.exe
+C:\Users\Coditas\source\repos\My App\bin\Debug\net8.0\My App.deps.json
+C:\Users\Coditas\source\repos\My App\bin\Debug\net8.0\My App.runtimeconfig.json
+C:\Users\Coditas\source\repos\My App\bin\Debug\net8.0\My App.dll
+C:\Users\Coditas\source\repos\My App\bin\Debug\net8.0\My App.pdb
+C:\Users\Coditas\source\repos\My App\obj\Debug\net8.0\My App.dll
+C:\Users\Coditas\source\repos\My App\obj\Debug\net8.0\refint\My App.dll
+C:\Users\Coditas\source\repos\My App\obj\Debug\net8.0\My App.pdb
+C:\Users\Coditas\source\repos\My App\obj\Debug\net8.0\My App.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\My App\obj\Debug\net8.0\ref\My App.dll

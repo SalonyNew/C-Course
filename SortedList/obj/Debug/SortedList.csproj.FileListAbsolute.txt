@@ -1,0 +1,7 @@
+C:\Users\Coditas\source\repos\SortedList\bin\Debug\SortedList.exe.config
+C:\Users\Coditas\source\repos\SortedList\bin\Debug\SortedList.exe
+C:\Users\Coditas\source\repos\SortedList\bin\Debug\SortedList.pdb
+C:\Users\Coditas\source\repos\SortedList\obj\Debug\SortedList.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\SortedList\obj\Debug\SortedList.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\SortedList\obj\Debug\SortedList.exe
+C:\Users\Coditas\source\repos\SortedList\obj\Debug\SortedList.pdb

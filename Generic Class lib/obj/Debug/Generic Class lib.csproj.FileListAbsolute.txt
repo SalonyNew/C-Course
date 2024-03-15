@@ -1,0 +1,6 @@
+C:\Users\Coditas\source\repos\Generic Class lib\bin\Debug\Generic Class lib.dll
+C:\Users\Coditas\source\repos\Generic Class lib\bin\Debug\Generic Class lib.pdb
+C:\Users\Coditas\source\repos\Generic Class lib\obj\Debug\Generic Class lib.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\Generic Class lib\obj\Debug\Generic Class lib.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\Generic Class lib\obj\Debug\Generic Class lib.dll
+C:\Users\Coditas\source\repos\Generic Class lib\obj\Debug\Generic Class lib.pdb

@@ -1,0 +1,10 @@
+C:\Users\Coditas\source\repos\object relations\bin\Debug\object relations.exe.config
+C:\Users\Coditas\source\repos\object relations\bin\Debug\object relations.exe
+C:\Users\Coditas\source\repos\object relations\bin\Debug\object relations.pdb
+C:\Users\Coditas\source\repos\object relations\bin\Debug\ClassLibrary4.dll
+C:\Users\Coditas\source\repos\object relations\bin\Debug\ClassLibrary4.pdb
+C:\Users\Coditas\source\repos\object relations\obj\Debug\object relations.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\object relations\obj\Debug\object relations.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\object relations\obj\Debug\object r.D99324DD.Up2Date
+C:\Users\Coditas\source\repos\object relations\obj\Debug\object relations.exe
+C:\Users\Coditas\source\repos\object relations\obj\Debug\object relations.pdb

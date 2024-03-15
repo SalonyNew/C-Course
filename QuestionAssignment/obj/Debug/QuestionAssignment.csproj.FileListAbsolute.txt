@@ -1,0 +1,7 @@
+C:\Users\Coditas\source\repos\QuestionAssignment\bin\Debug\QuestionAssignment.exe.config
+C:\Users\Coditas\source\repos\QuestionAssignment\bin\Debug\QuestionAssignment.exe
+C:\Users\Coditas\source\repos\QuestionAssignment\bin\Debug\QuestionAssignment.pdb
+C:\Users\Coditas\source\repos\QuestionAssignment\obj\Debug\QuestionAssignment.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\QuestionAssignment\obj\Debug\QuestionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\QuestionAssignment\obj\Debug\QuestionAssignment.exe
+C:\Users\Coditas\source\repos\QuestionAssignment\obj\Debug\QuestionAssignment.pdb

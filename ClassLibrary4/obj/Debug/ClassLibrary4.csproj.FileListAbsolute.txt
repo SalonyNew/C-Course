@@ -1,0 +1,6 @@
+C:\Users\Coditas\source\repos\ClassLibrary4\bin\Debug\ClassLibrary4.dll
+C:\Users\Coditas\source\repos\ClassLibrary4\bin\Debug\ClassLibrary4.pdb
+C:\Users\Coditas\source\repos\ClassLibrary4\obj\Debug\ClassLibrary4.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\ClassLibrary4\obj\Debug\ClassLibrary4.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\ClassLibrary4\obj\Debug\ClassLibrary4.dll
+C:\Users\Coditas\source\repos\ClassLibrary4\obj\Debug\ClassLibrary4.pdb

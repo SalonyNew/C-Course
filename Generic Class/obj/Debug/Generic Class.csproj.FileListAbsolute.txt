@@ -1,0 +1,10 @@
+C:\Users\Coditas\source\repos\Generic Class\bin\Debug\Generic Class.exe.config
+C:\Users\Coditas\source\repos\Generic Class\bin\Debug\Generic Class.exe
+C:\Users\Coditas\source\repos\Generic Class\bin\Debug\Generic Class.pdb
+C:\Users\Coditas\source\repos\Generic Class\bin\Debug\Generic Class lib.dll
+C:\Users\Coditas\source\repos\Generic Class\bin\Debug\Generic Class lib.pdb
+C:\Users\Coditas\source\repos\Generic Class\obj\Debug\Generic Class.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\Generic Class\obj\Debug\Generic Class.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\Generic Class\obj\Debug\Generic .8AF6E019.Up2Date
+C:\Users\Coditas\source\repos\Generic Class\obj\Debug\Generic Class.exe
+C:\Users\Coditas\source\repos\Generic Class\obj\Debug\Generic Class.pdb
